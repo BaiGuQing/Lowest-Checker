@@ -1,7 +1,7 @@
 # Lowest Checker
 ## 这是什么？
-这是一个Microsoft Checker并携带了GUI
-较为基础
+这是一个Microsoft Checker并携带了GUI,
+较为基础,最后维护时间为24年6月份
 
 
 # 仅供学习参考
